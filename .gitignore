@@ -89,4 +89,5 @@ typings/
 
 # Output of 'npm pack'
 *.tgz
-.idea/vcs.xml
+#.idea/vcs.xml
+.idea
