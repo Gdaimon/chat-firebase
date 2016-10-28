@@ -1,0 +1,11 @@
+{
+  "name": "chat",
+  "version": "1.0.0",
+  "description": "Chat Firebase",
+  "dependencies": {
+    "materialize": "^0.97.7",
+    "flexboxgrid": "^6.3.2",
+    "firebase": "^3.5.1",
+    "jquery-tmpl": "*"
+  }
+}
