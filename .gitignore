@@ -91,3 +91,4 @@ typings/
 *.tgz
 #.idea/vcs.xml
 .idea
+/.idea/workspace.xml
